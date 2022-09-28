@@ -1,6 +1,6 @@
 # Food Delivery Website (Omni Food)
 
-ZEE5 is an Indian subscription video on-demand and over-the-top streaming service, run by Zee Entertainment Enterprises. It was launched in India on 14 February 2018 with content in 12 languages. The ZEE5 mobile app is available on Web, Android, iOS, Smart TVs, among other devices..
+Omnifood is a restaurant website where customers can searching for food in your general area, such as your location, cuisine type, and restaurant name.
 
 AS part of unit 4 construct week I cloned the zee5 to the best of my ability as individual in the span of 5 days.
 
@@ -16,42 +16,40 @@ AS part of unit 4 construct week I cloned the zee5 to the best of my ability as 
 
 ## Features:
 
-1.Social Sign-up/Sign-in. 2. User authentication from back-end 3. For Data I have created Json Server and deployed it on Heroku. 4.Fetched the data using Axios 5. Added iframe so movies can play upto 4K. 6.With the functionality of play pause ,backward and forward 7.Also added logout functionality.
+Restaurant website where you can order food as per your location, type of food and restorent name. you also can take Healthy Food plans for month. We have three defrent plans for the duration ofthe month. i have cloned the front-end of the website.
 
 <h1>Snapshots of our project</h1>
 
-1. This is the Landing page of zee5.com
+1. This is the Landing page of Omni-Food
 
-![ScreenShot Tool -20220928051620](https://user-images.githubusercontent.com/88669777/192657654-48d93c8d-9002-4b8d-83bc-ee72623bb79e.png)
+![ScreenShot Tool -20220928070253](https://user-images.githubusercontent.com/88669777/192668788-f3f6d9c7-bf73-492b-93cb-c6ed1813e8b1.png)
 
-2.This is Log-in
+2. Fast and not Fast food section
 
-![ScreenShot Tool -20220928050537](https://user-images.githubusercontent.com/88669777/192657734-ddd4c787-0e68-4cb8-82eb-153ee098acdd.png)
+![ScreenShot Tool -20220928070433](https://user-images.githubusercontent.com/88669777/192668930-0aa02e2a-4e34-4c80-9d5d-71733dda46d6.png)
 
+![ScreenShot Tool -20220928070516](https://user-images.githubusercontent.com/88669777/192668947-40066209-0a56-415b-a9d9-470d944e60ae.png)
 
-3.This is Sign-up and Sign-in Page
+3. How to download mobile app section
 
-![ScreenShot Tool -20220928050552](https://user-images.githubusercontent.com/88669777/192657791-8d2e0d1a-7223-4ef9-92f0-ca9f920a798a.png)
+![ScreenShot Tool -20220928070538](https://user-images.githubusercontent.com/88669777/192669015-f589141a-63eb-4c61-b2e9-c0e0732d4a21.png)
 
-4. Side Menu
+4. Current Cities in section
 
-![ScreenShot Tool -20220928050616](https://user-images.githubusercontent.com/88669777/192657860-88bdec21-0d92-4b69-a3d3-279d0b8c4508.png)
+![ScreenShot Tool -20220928070657](https://user-images.githubusercontent.com/88669777/192669094-666b8638-6b40-492f-adb6-ac6437d649ef.png)
 
-5. Movie Page 
+5. Customers Feedback
 
-![ScreenShot Tool -20220928050841](https://user-images.githubusercontent.com/88669777/192657944-f6bd858c-9c85-492f-8710-d71b4086f1ed.png)
+![ScreenShot Tool -20220928070718](https://user-images.githubusercontent.com/88669777/192669186-04475b69-cd07-42b3-969f-572c02477f86.png)
 
-6. Upcomming Movie Page
+6. Healthy Plans
 
-![ScreenShot Tool -20220928050909](https://user-images.githubusercontent.com/88669777/192658025-24a322fd-d797-4938-a631-540f35247341.png)
+![ScreenShot Tool -20220928070733](https://user-images.githubusercontent.com/88669777/192669239-584bf648-8b36-4364-a8c6-a8fdeb02d5ac.png)
 
-7. News Page
+7. Submit Feedback section and Footer
 
-![ScreenShot Tool -20220928051607](https://user-images.githubusercontent.com/88669777/192658120-d92e2785-d9f0-4401-93b5-942d90ad39c4.png)
+![ScreenShot Tool -20220928070756](https://user-images.githubusercontent.com/88669777/192669307-0cf959f1-dbe7-447c-b332-38f7ec68f742.png)
 
-8. Movies page
-
-![ScreenShot Tool -20220928051620](https://user-images.githubusercontent.com/88669777/192658135-ac2e1f74-e10f-4d26-9223-b4fb50bb02b7.png)
-
+8. Demo
 
 ![2022-01-27 01-48-47](https://user-images.githubusercontent.com/88669777/151240731-b0753419-43da-4921-8bc4-93d228dc7e29.gif)
