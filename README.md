@@ -2,7 +2,9 @@
 
 Omnifood is a restaurant website where customers can searching for food in your general area, such as your location, cuisine type, and restaurant name.
 
-AS part of unit 4 construct week I cloned the zee5 to the best of my ability as individual in the span of 5 days.
+This is the project I have done personally apart from Masai School in the duration of 1 day. i have cloned the front enf of the website.
+
+
 
 
 <!-- ## Tech Stack: -->
