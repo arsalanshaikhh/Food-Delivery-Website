@@ -2,7 +2,7 @@
 
 Omnifood is a restaurant website where customers can searching for food in your general area, such as your location, cuisine type, and restaurant name.
 
-This is the project I have done personally apart from Masai School in the duration of 1 day. i have cloned the front enf of the website.
+This is the project I have done personally apart from Masai School in the duration of 1 day. I have cloned the front end of the website.
 
 
 
